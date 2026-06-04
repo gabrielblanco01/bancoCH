@@ -1,0 +1,638 @@
+[{
+  "_id": {
+    "$oid": "6a0ff934e4bb194398ef4486"
+  },
+  "accion": "LOGIN_FALLIDO",
+  "usuario": "admin@bancodiario.com",
+  "resultado": "Credenciales incorrectas",
+  "fecha": {
+    "$date": "2026-05-22T06:35:31.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ff934e4bb194398ef4487"
+  },
+  "accion": "LOGIN_FALLIDO",
+  "usuario": "admin@bancodiario.com",
+  "resultado": "Credenciales incorrectas",
+  "fecha": {
+    "$date": "2026-05-22T06:35:32.515Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ff954e4bb194398ef4488"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "admin@bancodiario.com",
+  "resultado": "Acceso como rol 1",
+  "fecha": {
+    "$date": "2026-05-22T06:36:04.354Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffa29e4bb194398ef4489"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "VALERIA@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 3",
+  "fecha": {
+    "$date": "2026-05-22T06:39:37.473Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffb11e4bb194398ef448a"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "admin@bancodiario.com",
+  "resultado": "Acceso como rol 1",
+  "fecha": {
+    "$date": "2026-05-22T06:43:29.709Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffb77e4bb194398ef448b"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "VALERIA@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 3",
+  "fecha": {
+    "$date": "2026-05-22T06:45:11.542Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffbebe4bb194398ef448c"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "GABINOBLANCO@ANALISTA.COM",
+  "resultado": "Acceso como rol 4",
+  "fecha": {
+    "$date": "2026-05-22T06:47:07.417Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffc31e4bb194398ef448d"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "admin@bancodiario.com",
+  "resultado": "Acceso como rol 1",
+  "fecha": {
+    "$date": "2026-05-22T06:48:17.688Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffc4be4bb194398ef448e"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "DAVID@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 2",
+  "fecha": {
+    "$date": "2026-05-22T06:48:43.674Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffc65e4bb194398ef448f"
+  },
+  "accion": "LOGIN_FALLIDO",
+  "usuario": "admin@bancodiario.com",
+  "resultado": "Credenciales incorrectas",
+  "fecha": {
+    "$date": "2026-05-22T06:49:09.610Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffc71e4bb194398ef4490"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "admin@bancodiario.com",
+  "resultado": "Acceso como rol 1",
+  "fecha": {
+    "$date": "2026-05-22T06:49:21.012Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffc8be4bb194398ef4491"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "gabrielblanco@hotmail.com",
+  "resultado": "Acceso como rol 5",
+  "fecha": {
+    "$date": "2026-05-22T06:49:47.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffcb8e4bb194398ef4492"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "ch.ingsistem@net.com",
+  "resultado": "Acceso como rol 6",
+  "fecha": {
+    "$date": "2026-05-22T06:50:32.290Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffcdbe4bb194398ef4493"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "admin@bancodiario.com",
+  "resultado": "Acceso como rol 1",
+  "fecha": {
+    "$date": "2026-05-22T06:51:07.351Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffce7e4bb194398ef4494"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "VALERIA@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 3",
+  "fecha": {
+    "$date": "2026-05-22T06:51:19.967Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffcf4e4bb194398ef4495"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "GABINOBLANCO@ANALISTA.COM",
+  "resultado": "Acceso como rol 4",
+  "fecha": {
+    "$date": "2026-05-22T06:51:32.854Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffcfce4bb194398ef4496"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "DAVID@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 2",
+  "fecha": {
+    "$date": "2026-05-22T06:51:40.664Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffd09e4bb194398ef4497"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "VALERIA@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 3",
+  "fecha": {
+    "$date": "2026-05-22T06:51:53.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffd3ae4bb194398ef4498"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "DAVID@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 2",
+  "fecha": {
+    "$date": "2026-05-22T06:52:42.999Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffd42e4bb194398ef4499"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "GABINOBLANCO@ANALISTA.COM",
+  "resultado": "Acceso como rol 4",
+  "fecha": {
+    "$date": "2026-05-22T06:52:50.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffd47e4bb194398ef449a"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "ch.ingsistem@net.com",
+  "resultado": "Acceso como rol 6",
+  "fecha": {
+    "$date": "2026-05-22T06:52:55.976Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffd5ae4bb194398ef449b"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "gabrielblanco@hotmail.com",
+  "resultado": "Acceso como rol 5",
+  "fecha": {
+    "$date": "2026-05-22T06:53:14.924Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0ffd68e4bb194398ef449c"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "DAVID@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 2",
+  "fecha": {
+    "$date": "2026-05-22T06:53:28.628Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a10a22be4bb194398ef449d"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "gabrielblanco@hotmail.com",
+  "resultado": "Acceso como rol 5",
+  "fecha": {
+    "$date": "2026-05-22T18:36:27.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a10a231e4bb194398ef449e"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "VALERIA@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 3",
+  "fecha": {
+    "$date": "2026-05-22T18:36:33.364Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a10a25ee4bb194398ef449f"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "GABINOBLANCO@ANALISTA.COM",
+  "resultado": "Acceso como rol 4",
+  "fecha": {
+    "$date": "2026-05-22T18:37:18.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a10a5d6e4bb194398ef44a0"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "admin@bancodiario.com",
+  "resultado": "Acceso como rol 1",
+  "fecha": {
+    "$date": "2026-05-22T18:52:06.410Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a10a624e4bb194398ef44a1"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "sergioblanco@prestatario.com",
+  "resultado": "Acceso como rol 3",
+  "fecha": {
+    "$date": "2026-05-22T18:53:24.442Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a10a65be4bb194398ef44a2"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "GABINOBLANCO@ANALISTA.COM",
+  "resultado": "Acceso como rol 4",
+  "fecha": {
+    "$date": "2026-05-22T18:54:19.983Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a10a668e4bb194398ef44a3"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "sergioblanco@prestatario.com",
+  "resultado": "Acceso como rol 3",
+  "fecha": {
+    "$date": "2026-05-22T18:54:32.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a10a66fe4bb194398ef44a4"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "DAVID@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 2",
+  "fecha": {
+    "$date": "2026-05-22T18:54:39.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a12494dc0a11762f890b262"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "admin@bancodiario.com",
+  "resultado": "Acceso como rol 1",
+  "fecha": {
+    "$date": "2026-05-24T00:41:49.474Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a12494dc0a11762f890b261"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "admin@bancodiario.com",
+  "resultado": "Acceso como rol 1",
+  "fecha": {
+    "$date": "2026-05-24T00:41:49.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1e448dbbe0f144b0f00d59"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "ch.ingsistem@net.com",
+  "resultado": "Acceso como rol 6",
+  "fecha": {
+    "$date": "2026-06-02T02:48:44.612Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1e44c2bbe0f144b0f00d5a"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "DAVID@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 2",
+  "fecha": {
+    "$date": "2026-06-02T02:49:38.568Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1e44dfbbe0f144b0f00d5b"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "VALERIA@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 3",
+  "fecha": {
+    "$date": "2026-06-02T02:50:07.942Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1e4516bbe0f144b0f00d5c"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "DAVID@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 2",
+  "fecha": {
+    "$date": "2026-06-02T02:51:02.917Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1e453dbbe0f144b0f00d5d"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "sergioblanco@prestatario.com",
+  "resultado": "Acceso como rol 3",
+  "fecha": {
+    "$date": "2026-06-02T02:51:41.075Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1e4547bbe0f144b0f00d5e"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "GABINOBLANCO@ANALISTA.COM",
+  "resultado": "Acceso como rol 4",
+  "fecha": {
+    "$date": "2026-06-02T02:51:51.246Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1e4555bbe0f144b0f00d5f"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "VALERIA@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 3",
+  "fecha": {
+    "$date": "2026-06-02T02:52:05.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a20e3be3da60862f76a6648"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "gabrielblanco@hotmail.com",
+  "resultado": "Acceso como rol 5",
+  "fecha": {
+    "$date": "2026-06-04T02:32:28.833Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a20e3be3da60862f76a6649"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "gabrielblanco@hotmail.com",
+  "resultado": "Acceso como rol 5",
+  "fecha": {
+    "$date": "2026-06-04T02:32:30.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a20e3bf3da60862f76a664a"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "gabrielblanco@hotmail.com",
+  "resultado": "Acceso como rol 5",
+  "fecha": {
+    "$date": "2026-06-04T02:32:31.421Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a20e3bf3da60862f76a664b"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "gabrielblanco@hotmail.com",
+  "resultado": "Acceso como rol 5",
+  "fecha": {
+    "$date": "2026-06-04T02:32:31.594Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a20e4153da60862f76a664c"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "admin@bancodiario.com",
+  "resultado": "Acceso como rol 1",
+  "fecha": {
+    "$date": "2026-06-04T02:33:57.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a20e45e3da60862f76a664d"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "gabrielblanco@hotmail.com",
+  "resultado": "Acceso como rol 5",
+  "fecha": {
+    "$date": "2026-06-04T02:35:10.572Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a20e4633da60862f76a664e"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "VALERIA@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 3",
+  "fecha": {
+    "$date": "2026-06-04T02:35:15.778Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a20e48f3da60862f76a664f"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "sergioblanco@prestatario.com",
+  "resultado": "Acceso como rol 3",
+  "fecha": {
+    "$date": "2026-06-04T02:35:59.870Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a20e4953da60862f76a6650"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "GABINOBLANCO@ANALISTA.COM",
+  "resultado": "Acceso como rol 4",
+  "fecha": {
+    "$date": "2026-06-04T02:36:05.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a20e4a43da60862f76a6651"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "ch.ingsistem@net.com",
+  "resultado": "Acceso como rol 6",
+  "fecha": {
+    "$date": "2026-06-04T02:36:20.426Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a20e4c43da60862f76a6652"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "DAVID@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 2",
+  "fecha": {
+    "$date": "2026-06-04T02:36:52.685Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a20eaef3da60862f76a6653"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "DAVID@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 2",
+  "fecha": {
+    "$date": "2026-06-04T03:03:11.872Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2109e63da60862f76a6654"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "GABINOBLANCO@ANALISTA.COM",
+  "resultado": "Acceso como rol 4",
+  "fecha": {
+    "$date": "2026-06-04T05:15:18.825Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2109f63da60862f76a6655"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "DAVID@PRESTAMISTA.COM",
+  "resultado": "Acceso como rol 2",
+  "fecha": {
+    "$date": "2026-06-04T05:15:34.774Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a2109fc3da60862f76a6656"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "gabrielblanco@hotmail.com",
+  "resultado": "Acceso como rol 5",
+  "fecha": {
+    "$date": "2026-06-04T05:15:40.832Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a210a123da60862f76a6657"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "ch.ingsistem@net.com",
+  "resultado": "Acceso como rol 6",
+  "fecha": {
+    "$date": "2026-06-04T05:16:02.022Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a210a273da60862f76a6658"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "sergioblanco@prestatario.com",
+  "resultado": "Acceso como rol 3",
+  "fecha": {
+    "$date": "2026-06-04T05:16:23.737Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a210a493da60862f76a6659"
+  },
+  "accion": "LOGIN_EXITOSO",
+  "usuario": "admin@bancodiario.com",
+  "resultado": "Acceso como rol 1",
+  "fecha": {
+    "$date": "2026-06-04T05:16:57.332Z"
+  }
+}]
